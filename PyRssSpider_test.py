@@ -1,4 +1,4 @@
-__author__ = 'ZhenHappy'
+__author__ = 'zhenhappy'
 # -*- coding:utf-8 -*-
 import urllib2
 import re
